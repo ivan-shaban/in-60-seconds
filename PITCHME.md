@@ -1,14 +1,13 @@
-### Веб который мы заслужили
+### Веб, который мы заслужили
 
 ---
 
 ### Инструменты используемые в веб разработке
 
 - git \ git flow \ bitbucket stash \ особенности организации проектов
-- YARM \ NPM
+- YARN \ NPM
 - Webpack
 - Typescript \ PostCSS \ PugJS \ other preprocessors
-- mock everything
 - eslint \ tslint \ stylelint
 - unit tests \ snapshot tests \ styleguidist
 - Browser \ devtools \ plugins
@@ -18,6 +17,7 @@
 ### Полезные практики используемые в веб разработке
 
 - Коллайдер тайм!
+- mock everything
 
 ---
 
@@ -36,7 +36,7 @@
 - локальные коммиты
 - упрощенное бранчевание
 - гитфлоу (выбираем общепринятую практику и не придумываем велосипедов)
-- субьективно `bitbucket stash` удобнее `fisheye`
+- субьективно @color[#0eff00](**bitbucket stash**) удобнее @color[#0eff00](**fisheye**)
 
 ---
 
