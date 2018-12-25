@@ -22,6 +22,10 @@
   color: white;
 }
 
+.reveal ul {
+  font-size: 0.8em;
+}
+
 .reveal a:hover {
   color: white;
   font-weight: bold;
