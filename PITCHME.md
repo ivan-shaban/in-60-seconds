@@ -58,7 +58,9 @@
 - основа экосистемы библиотек
 - таскраннер
 
+@ul[spaced]
 [It's Vidosic Time!](https://youtu.be/x03fjb2VlGY)
+@ulend
 
 ---
 
@@ -86,9 +88,12 @@
 
 ### Препроцессоры и транспайлеры: `Typescript` \ `PostCSS` \ etc
 
+@ul[spaced]
+- [Что такое препроцессоры и транспайлеры, это важно!](https://coub.com/view/17jswc)
 - [pugjs](https://pugjs.org/api/getting-started.html)
 - [typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [postcss](https://github.com/postcss/postcss)
+@ulend
 
 ---
 
