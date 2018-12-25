@@ -1,10 +1,8 @@
----
-
-# Веб который мы заслужили
+### Веб который мы заслужили
 
 ---
 
-Инструменты используемые в веб разработке
+#### Инструменты используемые в веб разработке
 =========================================
 
 - git \ git flow \ bitbucket stash \ особенности организации проектов
@@ -18,14 +16,14 @@
 
 ---
 
-Полезные практики используемые в веб разработке
+#### Полезные практики используемые в веб разработке
 ===============================================
 
 - Коллайдер тайм!
 
 ---
 
-## отличия в структуре проектов
+#### Отличия в структуре проектов
 
 - проекты меньше по размеру
 - быстрее индексация локально и на сервере
@@ -34,7 +32,7 @@
 
 ---
 
-## Что нам даем git как VCS
+#### Что нам даем git как VCS
 
 - более гибкая разработка в целом
 - локальные коммиты
@@ -44,7 +42,7 @@
 
 ---
 
-## Литература
+#### Литература
 
 [Перевод статьи про "дефолтный" git flow с хабра](https://habr.com/post/106912/)
 
@@ -54,7 +52,7 @@
 
 ---
 
-## Менеджеры пакетов: YARN \ NPM
+#### Менеджеры пакетов: YARN \ NPM
 
 - инструмент для управления зависимостями проекта на уровне конфигурации
 - быстрое разворачивание проекта
@@ -66,7 +64,7 @@
 
 ---
 
-## Литература
+### Литература
 
 [Документация по YARN](https://yarnpkg.com/en/docs)
 
@@ -74,13 +72,13 @@
 
 ---
 
-## Инструмент сборки проекта: Webpack
+### Инструмент сборки проекта: `Webpack`
 
 - инструмент для конфигурирования сборки проекта
 
 ---
 
-## Литература
+### Литература
 
 [Документация по WEBPACK](https://webpack.js.org/concepts/)
 
@@ -88,7 +86,7 @@
 
 ---
 
-## Препроцессоры и транспайлеры: Typescript \ PostCSS \ etc
+### Препроцессоры и транспайлеры: `Typescript` \ `PostCSS` \ etc
 
 - [pugjs](https://pugjs.org/api/getting-started.html)
 - [typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
@@ -96,7 +94,7 @@
 
 ---
 
-## Browser \ devtools \ plugins
+### Browser \ devtools \ plugins
 
 - [Хороший видосик про девтулы](https://www.youtube.com/watch?v=x4q86IjJFag&t=52s)
 
@@ -123,7 +121,7 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+### Customize Slide Content Layout
 @snapend
 
 @snap[east span-50]
@@ -134,7 +132,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+##### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
 @snapend
 
 @snap[west span-55]
@@ -153,7 +151,7 @@
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
-## Now It's Your Turn
+### Now It's Your Turn
 @snapend
 
 @snap[south span-100 text-06]
