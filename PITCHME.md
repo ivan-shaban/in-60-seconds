@@ -1,8 +1,8 @@
----?color=#F0DB4F
+---
 
 # Веб который мы заслужили
 
----?color=#F0DB4F
+---
 
 Инструменты используемые в веб разработке
 =========================================
@@ -16,14 +16,14 @@
 - unit tests \ snapshot tests \ styleguidist
 - Browser \ devtools \ plugins
 
----?color=#F0DB4F
+---
 
 Полезные практики используемые в веб разработке
 ===============================================
 
 - Коллайдер тайм!
 
----?color=#F0DB4F
+---
 
 ## отличия в структуре проектов
 
@@ -32,7 +32,7 @@
 - проекты никак не связаны между собой
 - работа с клиентом идет просто как со сторонним сервисом без всяких поблажек
 
----?color=#F0DB4F
+---
 
 ## Что нам даем git как VCS
 
@@ -42,7 +42,7 @@
 - гитфлоу (выбираем общепринятую практику и не придумываем велосипедов)
 - субьективно `bitbucket stash` удобнее `fisheye`
 
----?color=#F0DB4F
+---
 
 ## Литература
 
@@ -52,7 +52,7 @@
 
 [Перевод статьи про  gitlab flow с хабра](https://habr.com/company/softmart/blog/316686/)
 
----?color=#F0DB4F
+---
 
 ## Менеджеры пакетов: YARN \ NPM
 
@@ -64,7 +64,7 @@
 
 [It's Vidosic Time!](https://youtu.be/x03fjb2VlGY)
 
----?color=#F0DB4F
+---
 
 ## Литература
 
@@ -72,13 +72,13 @@
 
 [Документация по NPM](https://docs.npmjs.com/)
 
----?color=#F0DB4F
+---
 
 ## Инструмент сборки проекта: Webpack
 
 - инструмент для конфигурирования сборки проекта
 
----?color=#F0DB4F
+---
 
 ## Литература
 
@@ -86,7 +86,7 @@
 
 [Серия видосиков для самых любознательных!](https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn)
 
----?color=#F0DB4F
+---
 
 ## Препроцессоры и транспайлеры: Typescript \ PostCSS \ etc
 
@@ -94,7 +94,7 @@
 - [typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [postcss](https://github.com/postcss/postcss)
 
----?color=#F0DB4F
+---
 
 ## Browser \ devtools \ plugins
 
@@ -102,7 +102,7 @@
 
 - [Youtube канал разработчиков](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 
----?color=#F0DB4F
+---
 
 
 
