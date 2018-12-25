@@ -89,7 +89,7 @@
 ### Препроцессоры и транспайлеры: `Typescript` \ `PostCSS` \ etc
 
 @ul[spaced]
-- [Что такое препроцессоры и транспайлеры, это важно!](https://coub.com/view/17jswc)
+- [Что такое препроцессоры и транспайлеры?](https://coub.com/view/17jswc)
 - [pugjs](https://pugjs.org/api/getting-started.html)
 - [typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - [postcss](https://github.com/postcss/postcss)
