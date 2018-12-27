@@ -59,7 +59,7 @@
 - таскраннер
 
 @ul[spaced]
-[It's Vidosic Time!](https://youtu.be/x03fjb2VlGY)
+- [It's Vidosic Time!](https://youtu.be/x03fjb2VlGY)
 @ulend
 
 ---
