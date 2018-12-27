@@ -1,32 +1,40 @@
 .spaced li {
-  margin:0 0 10px 0;
+    margin: 0 0 10px 0;
 }
 
 .shadow {
-  box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
+    box-shadow: 0 14px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19) !important;
 }
 
 .headline h2 {
-  color: white;
-  letter-spacing: 0.05em;
-  font-variant: small-caps;
+    color: white;
+    letter-spacing: 0.05em;
+    font-variant: small-caps;
 }
 
 .reveal section img {
-  background: none;
-  border: none;
-  box-shadow: none;
+    background: none;
+    border: none;
+    box-shadow: none;
 }
 
 .reveal a {
-  color: white;
+    color: white;
 }
 
 .reveal ul {
-  font-size: 0.8em;
+    font-size: 0.8em;
 }
 
 .reveal a:hover {
-  color: white;
-  font-weight: bold;
+    color: white;
+    font-weight: bold;
+}
+
+.reveal h6 {
+    font-family: "Roboto Condensed", Impact, sans-serif;
+}
+
+body {
+    background: #333333;
 }
