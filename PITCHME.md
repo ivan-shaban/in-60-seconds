@@ -117,3 +117,9 @@
 - [Youtube канал разработчиков](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 
 ---
+
+### Вопросы?
+
+---
+
+### Спасибо!
