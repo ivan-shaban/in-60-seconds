@@ -31,10 +31,19 @@
     font-weight: bold;
 }
 
-.reveal h6 {
-    font-family: "Roboto Condensed", Impact, sans-serif;
+.reveal {
+    font-family: 'Fira Sans', sans-serif; !important;
+}
+
+.reveal h3 {
+    color: #e7ad52;
+    font-family: 'Fira Sans', sans-serif; !important;
 }
 
 body {
     background: #333333;
+}
+
+code {
+    color: greenyellow;
 }
