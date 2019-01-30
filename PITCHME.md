@@ -95,11 +95,14 @@
 
 ---
 
-### eslint \ tslint \ stylelint
+### Форматирование и валидация кода
+- `eslint` 
+- `tslint` 
+- `stylelint`
 
 ---
 
-### unit tests \ snapshot tests \ styleguidist
+### Тестирование
 @ul[spaced]
 - `unit tests`
 - [`snapshot tests`](https://jestjs.io/docs/en/snapshot-testing)
