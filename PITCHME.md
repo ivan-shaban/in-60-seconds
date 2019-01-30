@@ -84,13 +84,13 @@
 
 ---
 
-### Препроцессоры и транспайлеры: `Typescript` \ `PostCSS` \ etc
+### Препроцессоры и транспайлеры
 
 @ul[spaced]
 - [Что такое препроцессоры и транспайлеры?](https://coub.com/view/17jswc)
 - `pugjs`: [официальный сайт](https://pugjs.org/api/getting-started.html), [туториал](https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33), [видосик](https://www.youtube.com/watch?v=kt3cEjjkCZA)
-- [typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- [postcss](https://github.com/postcss/postcss)
+- [`typescript`](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [`postcss`](https://github.com/postcss/postcss)
 @ulend
 
 ---
