@@ -89,8 +89,8 @@
 @ul[spaced]
 - [Что такое препроцессоры и транспайлеры?](https://coub.com/view/17jswc)
 - `pugjs`: [официальный сайт](https://pugjs.org/api/getting-started.html), [туториал](https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33), [видосик](https://www.youtube.com/watch?v=kt3cEjjkCZA)
-- [`typescript`](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- [`postcss`](https://github.com/postcss/postcss)
+- `typescript`: [официальный сайт](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- `postcss`: [официальный сайт](https://github.com/postcss/postcss)
 @ulend
 
 ---
@@ -101,9 +101,9 @@
 
 ### unit tests \ snapshot tests \ styleguidist
 @ul[spaced]
-- unit tests
-- [snapshot tests](https://jestjs.io/docs/en/snapshot-testing)
-- [styleguidist](https://github.com/styleguidist/react-styleguidist)
+- `unit tests`
+- [`snapshot tests`](https://jestjs.io/docs/en/snapshot-testing)
+- [`styleguidist`](https://github.com/styleguidist/react-styleguidist)
 @ulend
 
 ---
